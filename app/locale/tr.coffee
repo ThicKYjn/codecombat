@@ -10,7 +10,7 @@ module.exports = nativeDescription: "Türkçe", englishDescription: "Turkish", t
     classroom_in_a_box: "Bilgisayar bilimleri öğrenmek için kutuda bir sınıf."
     codecombat_is: "CodeCombat <strong>öğrenciler için</strong> hazırlanmış, gerçek bir oyun oynarken bilgisayar bilimleri öğrenmeyi sağlayan bir platformdur."
     our_courses: "Kurslarımız özellikle, önceden hiç programlama tecrübesi olmayan öğretmenler tarafından bile, oynanarak test edilmiştir."
-#    watch_how: "Watch how CodeCombat is transforming the way people learn computer science."
+#    watch_how: "CodeCombat'ın insanların bilgisayar bilimlerini öğrenme şeklini nasıl değiştirdiğini izleyin"
     top_screenshots_hint: "Öğrenciler kodlar ve gelişimlerini gerçek zamanlı olarak güncellenerek görürler"
     designed_with: "Öğretmenler düşünülerek tasarlanmıştır"
     real_code: "Gerçek, yazılmış kod"
